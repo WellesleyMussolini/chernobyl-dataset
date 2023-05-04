@@ -17,64 +17,24 @@ O conjunto de dados deste estudo contém informações sobre o número de casos 
 </thead>
 <tbody>
 <tr>
-  <td>id_passageiro</td>
-  <td>Identficador único do passageiro.</td>
+  <td>year</td>
+  <td>ano do ocorrido</td>
 </tr>
 <tr>
-  <td>classe</td>
-  <td>Classe social.</td>
+  <td>sex</td>
+  <td>Diferenciação se é homem ou mulher</td>
 </tr>
 <tr>
-  <td>sobreviveu</td>
-  <td>Sobrevivente? Sim (1), Não (0).</td>
+  <td>location</td>
+  <td>Cidades de Belarus</td>
 </tr>
 <tr>
-  <td>nome</td>
-  <td>Nome do passageiro.</td>
+  <td>cancer_type</td>
+  <td>Tipo de câncer que foi adquirido</td>
 </tr>
 <tr>
-  <td>sexo</td>
-  <td>Masculino (male), Feminino (female).</td>
-</tr>
-<tr>
-  <td>idade</td>
-  <td>Idade do passageiro.</td>
-</tr>
-<tr>
-  <td>irmaos_conjuges</td>
-  <td>Número de irmãos e cônjuges a bordo.</td>
-</tr>
-<tr>
-  <td>pais_filhos</td>
-  <td>Número de pais e filhos a bordo.</td>
-</tr>
-<tr>
-  <td>bilhete</td>
-  <td>Número do bilhete</td>
-</tr>
-<tr>
-  <td>tarifa</td>
-  <td>Preço da tarifa do passageiro.</td>
-</tr>
-<tr>
-  <td>cabine</td>
-  <td>Cabine.</td>
-</tr>
-<tr>
-  <td>embarque</td>
-  <td>Nome do porto de embarque: C = Cherbourg; Q = Queenstown; S = Southampton</td>
-</tr>
-<tr>
-  <td>bote</td>
-  <td>Bote salva vidas.</td>
-</tr>
-<tr>
-  <td>corpo</td>
-  <td>Número de identificação do corpo.</td>
-</tr>
-<tr>
-  <td>destino</td>
-  <td>Local de desembarque do passageiro.</td>
+  <td>cases</td>
+  <td>quantidade de casos registrados</td>
 </tr>
 </tbody>
 </table>
