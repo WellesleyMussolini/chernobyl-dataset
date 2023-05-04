@@ -46,3 +46,8 @@ O conjunto de dados deste estudo contém informações sobre o número de casos 
 <span>Python: linguagem de programação.</span>
 <span>Pandas: biblioteca em Python para análise e manipulação de dados que possibilita o carregamento, manipulação e impressão dos dados de um conjunto de dados em formato de tabela.</span>
 </pre>
+
+<h2>2.2. Leitura dos Dados</h2>
+<pre>
+<span>Pandas: biblioteca em Python para análise e manipulação de dados que possibilita o carregamento, manipulação e impressão dos dados de um conjunto de dados em formato de tabela.</span>
+</pre>
