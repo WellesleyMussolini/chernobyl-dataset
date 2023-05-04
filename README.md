@@ -39,3 +39,7 @@ O conjunto de dados deste estudo contém informações sobre o número de casos 
 </tbody>
 </table>
 </p>
+
+<h2>2.1. Configuração do Ambiente</h2>
+<pre><span></span> 
+</pre>
