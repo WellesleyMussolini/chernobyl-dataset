@@ -49,4 +49,5 @@ O conjunto de dados deste estudo contém informações sobre o número de casos 
 <h2>2.2. Leitura dos Dados</h2>
 <pre>
 <span>Pandas: O pandas é uma biblioteca em Python que foi utilizada para a análise e manipulação de dados no projeto. Com essa ferramenta, foi possível carregar o conjunto de dados em um formato de tabela, o que facilita a visualização e manipulação dos dados.</span>
+<span>CSV: A leitura dos dados utilizados do dataset neste trabalho estão no formato CSV (Comma Separated Values), que é um formato de arquivo comum para armazenar e trocar dados tabulares. A leitura dos dados foi realizada utilizando a biblioteca Pandas do Python, que possui uma função específica para carregar dados em formato CSV</span>
 </pre>
