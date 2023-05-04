@@ -41,5 +41,8 @@ O conjunto de dados deste estudo contém informações sobre o número de casos 
 </p>
 
 <h2>2.1. Configuração do Ambiente</h2>
-<pre><span></span> 
+<pre>
+<span>Visual Studio Code: editor e leitor de código.</span>
+<span>Python: linguagem de programação.</span>
+<span>Pandas: biblioteca em Python para análise e manipulação de dados que possibilita o carregamento, manipulação e impressão dos dados de um conjunto de dados em formato de tabela.</span>
 </pre>
