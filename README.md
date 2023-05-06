@@ -56,8 +56,8 @@ Este conjunto de dados contém informações sobre casos de câncer em Belarus a
 <br style="width: 100%" />
 <h2>Configuração do Ambiente</h2>
 <pre>
- <p>Linguagem de programação: Python.</p>
- <p>Bibliotecas: Pandas.</p>
+ <h3>Linguagem de programação: Python.</h3>
+ <h3>Bibliotecas: Pandas.</h3>
 </pre>
 <br>
 <h2>Leitura dos Dados</h2>
