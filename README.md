@@ -1,6 +1,6 @@
-# CHERNOBYL
+#  Análise de Dados Exploratória do acidente nuclear de Chernobyl
 
-<img src="https://i.ibb.co/NNP7hZR/logo.png](https://i.ibb.co/WxZ03fj/p-Sefe7-YIk7b7-GMt-Rdw-K-Ek-UBk61-QUD4r9h-L8oabb-GX4.png" alt="test" />
+<img src="https://i.ibb.co/WxZ03fj/p-Sefe7-YIk7b7-GMt-Rdw-K-Ek-UBk61-QUD4r9h-L8oabb-GX4.png" alt="test" />
 
 <h1>1. Introdução</h1>
 <p>
