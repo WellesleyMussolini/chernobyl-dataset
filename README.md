@@ -15,8 +15,8 @@ Este conjunto de dados contém informações sobre casos de câncer em Belarus a
 <br>
 <h1>2. Metodologia</h1>
 
-<div style="display: flex; justify-content: center;">
-  <table>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <table style="text-align: center;">
     <thead>
       <tr>
         <th>Coluna</th>
@@ -25,28 +25,29 @@ Este conjunto de dados contém informações sobre casos de câncer em Belarus a
     </thead>
     <tbody>
       <tr>
-        <td style="text-align:center">year</td>
+        <td>year</td>
         <td>ano do ocorrido</td>
       </tr>
       <tr>
-        <td style="text-align:center">sex</td>
+        <td>sex</td>
         <td>Diferenciação se é homem ou mulher</td>
       </tr>
       <tr>
-        <td style="text-align:center">location</td>
+        <td>location</td>
         <td>Cidades do incidente: Mogilev, Belarus, Gomel</td>
       </tr>
       <tr>
-        <td style="text-align:center">cancer_type</td>
+        <td>cancer_type</td>
         <td>Tipo de câncer que foi adquirido</td>
       </tr>
       <tr>
-        <td style="text-align:center">cases</td>
+        <td>cases</td>
         <td>quantidade de casos registrados</td>
       </tr>
     </tbody>
   </table>
 </div>
+
 
 
 <br />
