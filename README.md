@@ -7,7 +7,7 @@ O conjunto de dados deste estudo contém informações sobre o número de casos 
 
 <h1>2. Metodologia</h1>
 
-<p>
+<p style="text-align: center;">
 <table>
 <thead>
 <tr>
