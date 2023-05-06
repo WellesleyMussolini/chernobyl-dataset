@@ -1,6 +1,6 @@
 # CHERNOBYL
 
-<img src="https://i.ibb.co/NNP7hZR/logo.png" alt="chernobyl" />
+<img src="https://i.ibb.co/NNP7hZR/logo.png" style="height: 100%" />
 
 <h1>1. Introdução</h1>
 O acidente nuclear de Chernobyl foi uma explosão ocorrida em 26 de abril de 1986 na usina nuclear de Chernobyl, na Ucrânia. Foi o pior desastre nuclear da história, liberando grandes quantidades de material radioativo na atmosfera, afetando milhares de pessoas e causando impactos ambientais significativos.
