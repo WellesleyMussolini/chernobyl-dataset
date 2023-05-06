@@ -1,7 +1,7 @@
 #  Análise de Dados Exploratória do acidente nuclear de Chernobyl
 
 <div style="display: flex; align-items: center; justify-content: center; background: red; width: 100vw;">
-  <img src="https://i.ibb.co/s2z4NPy/background-1.png" alt="chernobyl" />
+  <img src="https://i.ibb.co/s2z4NPy/background-1.png" alt="chernobyl" style="width: 100%" />
 </div>
 
 <h1>1. Introdução</h1>
