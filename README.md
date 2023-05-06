@@ -1,6 +1,6 @@
 #  Análise de Dados Exploratória do acidente nuclear de Chernobyl
 
-<div style="display: flex; align-items: center; justify-content: center; background: red; width: 100vw;">
+<div style="display: flex; align-items: center; justify-content: center; width: 100vw;">
   <img src="https://i.ibb.co/s2z4NPy/background-1.png" alt="chernobyl" style="width: 100%" />
 </div>
 
@@ -15,7 +15,6 @@ Este conjunto de dados contém informações sobre casos de câncer em Belarus a
 <br>
 <h1>2. Metodologia</h1>
 
-<p>
 <table>
 <thead>
 <tr>
@@ -46,7 +45,7 @@ Este conjunto de dados contém informações sobre casos de câncer em Belarus a
 </tr>
 </tbody>
 </table>
-</p>
+
 <br />
 
 <h2>OBSERVAÇÕES</h2>
