@@ -1,4 +1,6 @@
-# dataset
+# CHERNOBYL
+
+<img src="https://i.ibb.co/NNP7hZR/logo.png" alt"chernobyl" />
 
 # 1. Introdução
 O acidente nuclear de Chernobyl foi uma explosão ocorrida em 26 de abril de 1986 na usina nuclear de Chernobyl, na Ucrânia. Foi o pior desastre nuclear da história, liberando grandes quantidades de material radioativo na atmosfera, afetando milhares de pessoas e causando impactos ambientais significativos.
@@ -43,38 +45,3 @@ O conjunto de dados deste estudo contém informações sobre o número de casos 
 
 
 
-
-<h2>2.1. Configuração do Ambiente</h2>
-<pre>
-<span>Visual Studio Code: editor e leitor de código.</span>
-<span>Python: linguagem de programação.</span>
-</pre>
-
-<h2>2.2. Leitura dos Dados</h2>
-<pre>
-<span>Pandas: O pandas é uma biblioteca em Python que foi utilizada para a análise e manipulação de dados no projeto. Com essa ferramenta, foi possível carregar o conjunto de dados em um formato de tabela, o que facilita a visualização e manipulação dos dados.</span>
-<span>CSV: A leitura dos dados utilizados do dataset neste trabalho estão no formato CSV (Comma Separated Values), que é um formato de arquivo comum para armazenar e trocar dados tabulares. A leitura dos dados foi realizada utilizando a biblioteca Pandas do Python, que possui uma função específica para carregar dados em formato CSV</span>
-</pre>
-
-<h2>2.3. Organização e Limpeza dos Dados</h2>
-<h3>2.3.1. Visão Geral do Conjunto de Dados</h3>
-<pre><span></span></pre>
-<pre><span></span></pre>
-
-<h3>2.3.2 Remoção de Colunas</h3>
-Remoção de colunas incompletas e/ou desnecessárias para a análise.
-<pre><span></span></pre>
-
-<h3>2.3.3. Dados Ausentes</h3>
-<pre><span></span></pre>
-
-<h3>2.3.3.1 Idades Ausentes</h3>
-Para os dados ausentes da coluna idade será feita a substituição dos dados vazios pela média das idades na época.
-<pre><span></span></pre>
-
-<h3>2.3.3.2 Tarifas Ausentes</h3>
-<p>Para os dados ausentes da coluna <code>tarifa</code>será feita a substituição dos dados vazios pela média de preço das tarifas na época.</p>
-
-<h3>2.3.3.3 Portos de Embarque Ausentes</h3>
-<p>Para os dados ausentes da coluna <code>embarque</code>será feita a remoção dos dados vazios.</p>
-<pre><span></span></pre>
