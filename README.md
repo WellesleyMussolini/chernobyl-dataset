@@ -1,6 +1,9 @@
 #  Análise de Dados Exploratória do acidente nuclear de Chernobyl
 
-<img src="https://i.ibb.co/s2z4NPy/background-1.png" alt="chenorbyl"  style="display: flex; align-items: center; justify-content: center"/>
+<div style="display: flex; align-items: center; justify-content: center; width: 100%;">
+  <img src="https://i.ibb.co/s2z4NPy/background-1.png" alt="chenorbyl" style="width: 50%;"/>
+</div>
+
 
 <h1>1. Introdução</h1>
 <p>
