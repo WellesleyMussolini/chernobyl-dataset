@@ -45,9 +45,13 @@ Este conjunto de dados contém informações sobre casos de câncer em Belarus a
 </tbody>
 </table>
 </p>
-
 <br />
 
+<h2>OBSERVAÇÕES</h2>
+<ul>
+<li>Os casos são divididos em 2 grupos: casos antes do acidente nos anos de 1977 a 1985 e após o acidente no período de 1986 até 1994.</li>
+</ul>
+<br style="width: 100%" />
 <h2>Configuração do Ambiente</h2>
 <pre>
   <span>Linguagem de programação: <strong>Python</strong></span>
