@@ -1,6 +1,6 @@
 #  Análise de Dados Exploratória do acidente nuclear de Chernobyl
 
-<img src="https://i.ibb.co/WxZ03fj/p-Sefe7-YIk7b7-GMt-Rdw-K-Ek-UBk61-QUD4r9h-L8oabb-GX4.png" alt="test" />
+<img src="https://i.ibb.co/s2z4NPy/background-1.png" alt="test" />
 
 <h1>1. Introdução</h1>
 <p>
@@ -32,7 +32,7 @@ Este conjunto de dados contém informações sobre casos de câncer em Belarus a
 </tr>
 <tr>
   <td>location</td>
-  <td>Cidades de Belarus</td>
+  <td>Cidades do incidente: Mogilev, Belarus, Gomel</td>
 </tr>
 <tr>
   <td>cancer_type</td>
@@ -45,7 +45,3 @@ Este conjunto de dados contém informações sobre casos de câncer em Belarus a
 </tbody>
 </table>
 </p>
-
-
-
-
