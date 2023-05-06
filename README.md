@@ -7,7 +7,8 @@ O conjunto de dados deste estudo contém informações sobre o número de casos 
 
 <h1>2. Metodologia</h1>
 
-<p style="text-align: center !important;">
+<div style="text-align: center;">
+<p>
 <table>
 <thead>
 <tr>
@@ -39,6 +40,7 @@ O conjunto de dados deste estudo contém informações sobre o número de casos 
 </tbody>
 </table>
 </p>
+</div>
 
 <h2>2.1. Configuração do Ambiente</h2>
 <pre>
