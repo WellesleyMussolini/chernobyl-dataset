@@ -50,6 +50,8 @@ Este conjunto de dados contém informações sobre casos de câncer em Belarus a
 <h2>OBSERVAÇÕES</h2>
 <ul>
 <li>Os casos são divididos em 2 grupos: casos antes do acidente nos anos de 1977 a 1985 e após o acidente no período de 1986 até 1994.</li>
+  <li>Os dados foram coletados para as cidades de Gomel, Mogilev e para todo o país da Bielorrússia.</li>
+  <li>Os casos são fornecidos por 100.000 pessoas.</li>
 </ul>
 <br style="width: 100%" />
 <h2>Configuração do Ambiente</h2>
