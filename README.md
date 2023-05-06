@@ -46,7 +46,7 @@ Este conjunto de dados contém informações sobre casos de câncer em Belarus a
 </table>
 </p>
 
-<br>
+<br />
 
 <h2>Configuração do Ambiente</h2>
 <pre>
