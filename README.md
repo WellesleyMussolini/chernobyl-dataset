@@ -3,9 +3,13 @@
 <img src="https://i.ibb.co/NNP7hZR/logo.png" style="height: 100%" />
 
 <h1>1. Introdução</h1>
+<p>
 O acidente nuclear de Chernobyl foi uma explosão ocorrida em 26 de abril de 1986 na usina nuclear de Chernobyl, na Ucrânia. Foi o pior desastre nuclear da história, liberando grandes quantidades de material radioativo na atmosfera, afetando milhares de pessoas e causando impactos ambientais significativos.
+</p>
 
+<p>
 Este conjunto de dados contém informações sobre casos de câncer em Belarus antes e depois do acidente nuclear de Chernobyl em 1986. Cada linha representa um tipo de câncer, um sexo, um local e um ano e o número de casos de câncer nessa categoria para esse sexo, local e ano. Há informações sobre seis tipos de câncer: pele, tireoide, pulmão, pâncreas, cólon e reto e rim. As informações de local incluem Gomel, Mogilev e Belarus (que é o total para todo o país). Os dados são separados por vírgulas e estão no formato CSV. As informações sobre os anos cobrem 1985 e 1986 e os dados estão desagregados por sexo.
+</p>
 
 <h1>2. Metodologia</h1>
 
