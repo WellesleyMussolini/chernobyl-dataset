@@ -86,6 +86,4 @@ Este conjunto de dados contém informações sobre casos de câncer em Belarus a
   <img src="https://i.ibb.co/xh4Zm2h/Xf-Xq1d-PYs-WMVGRm-Zp0-Ay-Bkfi-Afgmho3bqzq1atr3-Lhx7i4-FAFxw-RAYAANg-WQQYAANg-Wp5-YAAIBtc-UQGAADYFk.png" alt="cases" />
 </pre>
 <h2>Regiões afetadas</h2>
-<pre>
   <img src="https://i.ibb.co/P184Y08/cities.png" alt="cities" />
-</pre>
