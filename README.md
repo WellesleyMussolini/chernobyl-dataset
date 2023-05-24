@@ -77,3 +77,11 @@ Este conjunto de dados contém informações sobre casos de câncer em Belarus a
 <pre>
   <img src="https://i.ibb.co/QQs6Dxy/casos.png" alt="cases" />
 </pre>
+<h2>Gráfico com todos os tipos de câncer em mulheres</h2>
+<pre>
+  <img src="https://i.ibb.co/tDVkSyw/s-Bk-DECBFAjmj-Sp-Imq-V6u8e-PH53-Yp-AJAKZ4-AAAIDp-EIAAAIDpc-Ak-MAACYDme-AAACA6-RCAAACA6-RCAAACA6-RCA.png" alt="cases" />
+</pre>
+<h2>Gráfico com todos os tipos de câncer em homens</h2>
+<pre>
+  <img src="https://i.ibb.co/xh4Zm2h/Xf-Xq1d-PYs-WMVGRm-Zp0-Ay-Bkfi-Afgmho3bqzq1atr3-Lhx7i4-FAFxw-RAYAANg-WQQYAANg-Wp5-YAAIBtc-UQGAADYFk.png" alt="cases" />
+</pre>
