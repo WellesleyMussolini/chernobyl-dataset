@@ -73,3 +73,7 @@ Este conjunto de dados contém informações sobre casos de câncer em Belarus a
 <pre>
   <img src="https://i.ibb.co/VYW8dzf/YHYf-Tm-TDNl-AAAAAEl-FTk-Su-Qm-CC.png" alt="cases" />
 </pre>
+<h2>Apresente os aumentos de casos de câncer entre os anos de 1984 até 1986</h2>
+<pre>
+  <img src="https://i.ibb.co/QQs6Dxy/casos.png" alt="cases" />
+</pre>
