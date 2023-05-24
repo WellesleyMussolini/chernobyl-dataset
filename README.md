@@ -69,3 +69,7 @@ Este conjunto de dados contém informações sobre casos de câncer em Belarus a
 <pre>
   <span>CSV</span>
 </pre>
+<h2>Entre homens e mulheres, qual dos dois sexos tiveram mais casos ?</h2>
+<pre>
+  <img src="https://i.ibb.co/VYW8dzf/YHYf-Tm-TDNl-AAAAAEl-FTk-Su-Qm-CC.png" alt="cases" />
+</pre>
