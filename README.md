@@ -34,7 +34,7 @@ Este conjunto de dados contém informações sobre casos de câncer em Belarus a
       </tr>
       <tr>
         <td>location</td>
-        <td>Cidades do incidente: Mogilev, Belarus, Gomel</td>
+        <td>Cidades afetadas: Mogilev, Belarus, Gomel</td>
       </tr>
       <tr>
         <td>cancer_type</td>
