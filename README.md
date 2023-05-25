@@ -13,13 +13,12 @@ O acidente nuclear de Chernobyl foi uma explosão ocorrida em 26 de abril de 198
 <p>
 Este conjunto de dados contém informações sobre casos de câncer em Belarus antes e depois do acidente nuclear de Chernobyl em 1986. Cada linha representa um tipo de câncer, um sexo, um local e um ano e o número de casos de câncer nessa categoria para esse sexo, local e ano. Há informações sobre seis tipos de câncer: pele, tireoide, pulmão, pâncreas, cólon e reto e rim. As informações de local incluem Gomel, Mogilev e Belarus (que é o total para todo o país). Os dados são separados por vírgulas e estão no formato CSV. As informações sobre os anos cobrem 1985 e 1986 e os dados estão desagregados por sexo.
 </p>
-<br>
 
 <h2>1.1. Objetivos</h2>
 <p>
 O objetivo deste estudo é realizar uma Análise Exploratória dos Dados sobre casos de câncer após o acidente de Chernobyl. Os dados utilizados foram adaptados pela autora Maryna Shut e estão disponíveis no arquivo "https://www.kaggle.com/datasets/marshuu/cancer-rate-before-and-after-chernobyl". O intuito é caracterizar o perfil das vítimas e identificar as regiões com maior número de casos confirmados.
 </p>
- <br>
+<br>
 </div>
 
 <h1>2. Metodologia</h1>
